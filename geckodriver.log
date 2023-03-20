@@ -1,0 +1,1021 @@
+1679181325309	geckodriver	INFO	Listening on 127.0.0.1:55994
+1679181328371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilerRmYSK"
+1679181328934	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679181328939	Marionette	INFO	Listening on port 56006
+WebDriver BiDi listening on ws://127.0.0.1:55995
+Read port: 56006
+1679181329212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilerRmYSK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55995/devtools/browser/082d86a1-97b7-429a-8abf-be05c87fe10d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+[Parent 21012, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679181344235	Marionette	INFO	Stopped listening on port 56006
+Dynamically enable window occlusion 1
+1679181351769	geckodriver	INFO	Listening on 127.0.0.1:56053
+1679181354827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilevs7jJg"
+1679181355236	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679181355240	Marionette	INFO	Listening on port 56063
+Read port: 56063
+WebDriver BiDi listening on ws://127.0.0.1:56054
+1679181355340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilevs7jJg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56054/devtools/browser/7e2cd2b2-34aa-425e-b2cb-742b10fece96
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679181368439	Marionette	INFO	Stopped listening on port 56063
+Dynamically enable window occlusion 1
+1679181443333	geckodriver	INFO	Listening on 127.0.0.1:56143
+1679181446407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileTj4BiS"
+1679181446823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679181446827	Marionette	INFO	Listening on port 56151
+Read port: 56151
+WebDriver BiDi listening on ws://127.0.0.1:56144
+1679181446925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileTj4BiS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56144/devtools/browser/6c19ac39-2574-4931-a7fe-5a20a9c73fb3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679181475189	Marionette	INFO	Stopped listening on port 56151
+Dynamically enable window occlusion 1
+1679197951840	geckodriver	INFO	Listening on 127.0.0.1:58276
+1679197954897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile8b605Q"
+1679197955336	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679197955341	Marionette	INFO	Listening on port 58284
+Read port: 58284
+WebDriver BiDi listening on ws://127.0.0.1:58277
+1679197955505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile8b605Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58277/devtools/browser/284077c1-b185-469c-ba25-5f6f4a8b0ec7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679197971607	Marionette	INFO	Stopped listening on port 58284
+Dynamically enable window occlusion 1
+1679273665155	geckodriver	INFO	Listening on 127.0.0.1:59055
+1679273668371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile6B3koR"
+1679273669031	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679273669061	Marionette	INFO	Listening on port 59129
+Read port: 59129
+WebDriver BiDi listening on ws://127.0.0.1:59056
+1679273669292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile6B3koR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59056/devtools/browser/d094c4d9-4dfb-4b47-bb04-9744f54591f6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679273690709	Marionette	INFO	Stopped listening on port 59129
+Dynamically enable window occlusion 1
+[Parent 25328, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1679274651825	geckodriver	INFO	Listening on 127.0.0.1:59467
+1679274654888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileIPRoz5"
+1679274655255	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679274655259	Marionette	INFO	Listening on port 59475
+Read port: 59475
+WebDriver BiDi listening on ws://127.0.0.1:59468
+1679274655361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileIPRoz5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59468/devtools/browser/9e6a3184-f2b8-4712-ab52-87403d6fabca
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679274710378	Marionette	INFO	Stopped listening on port 59475
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileFZkLUH"
+1679274685659	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679274685663	Marionette	INFO	Listening on port 59528
+Read port: 59528
+WebDriver BiDi listening on ws://127.0.0.1:59521
+1679274685768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileFZkLUH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59521/devtools/browser/1aa01a16-1897-44bc-a7bc-0fef5fca47db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679274698200	Marionette	INFO	Stopped listening on port 59528
+Dynamically enable window occlusion 1
+1679274847203	geckodriver	INFO	Listening on 127.0.0.1:59591
+1679274850255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileQpAJRg"
+1679274850661	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679274850666	Marionette	INFO	Listening on port 59599
+Read port: 59599
+WebDriver BiDi listening on ws://127.0.0.1:59592
+1679274850758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileQpAJRg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59592/devtools/browser/0d75077a-36f5-4c4c-a811-998dfc65caf3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+1679274865475	Marionette	INFO	Stopped listening on port 59599
+Dynamically enable window occlusion 1
+1679274882297	geckodriver	INFO	Listening on 127.0.0.1:59671
+1679274885360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileyWrQYJ"
+1679274885726	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679274885730	Marionette	INFO	Listening on port 59682
+WebDriver BiDi listening on ws://127.0.0.1:59672
+Read port: 59682
+1679274885835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileyWrQYJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59672/devtools/browser/95044638-732d-4330-adc5-59a4222b406b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679274995877	Marionette	INFO	Stopped listening on port 59682
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofiled2whlJ"
+1679274905230	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679274905234	Marionette	INFO	Listening on port 59741
+Read port: 59741
+WebDriver BiDi listening on ws://127.0.0.1:59734
+1679274905337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofiled2whlJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59734/devtools/browser/0a33e62b-e66e-4e62-9ea7-acd299a3ff73
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679274920592	Marionette	INFO	Stopped listening on port 59741
+Dynamically enable window occlusion 1
+1679274998217	geckodriver	INFO	Listening on 127.0.0.1:59811
+1679275001289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile10bCoX"
+1679275001649	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679275001653	Marionette	INFO	Listening on port 59819
+WebDriver BiDi listening on ws://127.0.0.1:59812
+Read port: 59819
+1679275001824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile10bCoX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59812/devtools/browser/72b2de75-cbbd-4961-89a5-3cff2d021c44
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679275013560	Marionette	INFO	Stopped listening on port 59819
+Dynamically enable window occlusion 1
+1679275039017	geckodriver	INFO	Listening on 127.0.0.1:59867
+1679275042069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilejPr2Wz"
+1679275042456	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679275042460	Marionette	INFO	Listening on port 59876
+Read port: 59876
+WebDriver BiDi listening on ws://127.0.0.1:59868
+1679275042549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilejPr2Wz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59868/devtools/browser/dc63a22b-279b-411b-907f-82960c048e50
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679275054564	Marionette	INFO	Stopped listening on port 59876
+Dynamically enable window occlusion 1
+1679275066056	geckodriver	INFO	Listening on 127.0.0.1:59923
+1679275069127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileXRT8hW"
+1679275069481	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679275069486	Marionette	INFO	Listening on port 59931
+WebDriver BiDi listening on ws://127.0.0.1:59924
+Read port: 59931
+1679275069702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileXRT8hW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59924/devtools/browser/df22ed26-131e-433b-ba50-d091dfda0fd1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679275834336	Marionette	INFO	Stopped listening on port 59931
+Dynamically enable window occlusion 1
+file" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileVdzrWE"
+1679275486654	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679275486659	Marionette	INFO	Listening on port 60063
+WebDriver BiDi listening on ws://127.0.0.1:60056
+Read port: 60063
+1679275486869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileVdzrWE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60056/devtools/browser/06affef7-d819-43b0-bc52-fb9776c8b19c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679275513925	Marionette	INFO	Stopped listening on port 60063
+Dynamically enable window occlusion 1
+1679275598297	geckodriver	INFO	Listening on 127.0.0.1:60114
+1679275601351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilerfAoko"
+1679275601705	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679275601710	Marionette	INFO	Listening on port 60122
+WebDriver BiDi listening on ws://127.0.0.1:60115
+Read port: 60122
+1679275601886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilerfAoko\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60115/devtools/browser/42476515-a893-4666-a811-d95393cb32e3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679275624986	Marionette	INFO	Stopped listening on port 60122
+Dynamically enable window occlusion 1
+1679275816175	geckodriver	INFO	Listening on 127.0.0.1:60317
+1679275819242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60318" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilepV7aLO"
+1679275819623	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679275819628	Marionette	INFO	Listening on port 60325
+Read port: 60325
+WebDriver BiDi listening on ws://127.0.0.1:60318
+1679275819718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilepV7aLO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60318/devtools/browser/c323f4c0-3abb-47b7-bf10-c7ced71e28b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679275838361	Marionette	INFO	Stopped listening on port 60325
+Dynamically enable window occlusion 1
+1679275840590	geckodriver	INFO	Listening on 127.0.0.1:60369
+1679275843663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileeK77ro"
+1679275844050	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679275844055	Marionette	INFO	Listening on port 60377
+Read port: 60377
+WebDriver BiDi listening on ws://127.0.0.1:60370
+1679275844150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileeK77ro\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60370/devtools/browser/7a47d771-6f7f-4539-b06e-232b94a23df5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+1679275857812	geckodriver	INFO	Listening on 127.0.0.1:60422
+1679275860872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilejmeMEy"
+1679275861245	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679275861249	Marionette	INFO	Listening on port 60430
+Read port: 60430
+WebDriver BiDi listening on ws://127.0.0.1:60423
+1679275861355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilejmeMEy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60423/devtools/browser/49bdf9d7-d157-4f26-a379-bbf3271114de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679275949451	Marionette	INFO	Stopped listening on port 60430
+Dynamically enable window occlusion 1
+1679276178344	geckodriver	INFO	Listening on 127.0.0.1:60509
+1679276181416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60510" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileuV2H2H"
+1679276181816	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679276181822	Marionette	INFO	Listening on port 60517
+Read port: 60517
+WebDriver BiDi listening on ws://127.0.0.1:60510
+1679276181924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileuV2H2H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60510/devtools/browser/1993e665-4ad4-4e4e-bbc0-dfed5cb16d8f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript error: resource:///modules/TabsList.jsm, line 527: TypeError: this.dropIndicator is null
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 158: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679276475534	Marionette	INFO	Stopped listening on port 60517
+Dynamically enable window occlusion 1
+1679276477633	geckodriver	INFO	Listening on 127.0.0.1:60586
+1679276480695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileuH4xUq"
+1679276481108	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679276481113	Marionette	INFO	Listening on port 60594
+Read port: 60594
+WebDriver BiDi listening on ws://127.0.0.1:60587
+1679276481237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileuH4xUq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60587/devtools/browser/6fa1d471-868e-4987-8662-d21a01d39669
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679277109976	Marionette	INFO	Stopped listening on port 60594
+Dynamically enable window occlusion 1
+Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679277043458	Marionette	INFO	Listening on port 60751
+Read port: 60751
+WebDriver BiDi listening on ws://127.0.0.1:60744
+1679277043561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileUhHBra\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60744/devtools/browser/c8c264c7-6c0a-407b-a270-7798d689394c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1679277628660	Marionette	INFO	Stopped listening on port 60751
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "60806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileah0H4u"
+1679277106865	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679277106870	Marionette	INFO	Listening on port 60816
+Read port: 60816
+WebDriver BiDi listening on ws://127.0.0.1:60806
+1679277106965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileah0H4u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60806/devtools/browser/d6b553db-4c50-491f-99e4-4463f03431e0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679277185973	Marionette	INFO	Stopped listening on port 60816
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofiledH9j50"
+1679277183029	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679277183033	Marionette	INFO	Listening on port 60888
+Read port: 60888
+WebDriver BiDi listening on ws://127.0.0.1:60880
+1679277183128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofiledH9j50\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60880/devtools/browser/212cb749-f842-48e7-b843-0e9a53ba210a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679277487178	Marionette	INFO	Stopped listening on port 60888
+Dynamically enable window occlusion 1
+Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679277433418	Marionette	INFO	Listening on port 60982
+WebDriver BiDi listening on ws://127.0.0.1:60975
+Read port: 60982
+1679277433654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile9rgB5k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60975/devtools/browser/c2971e74-5a2d-4ff2-afc7-fcc7ae4e7ea6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679277485382	Marionette	INFO	Stopped listening on port 60982
+Dynamically enable window occlusion 1
+[Parent 25612, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+\\AppData\\Local\\Temp\\rust_mozprofilehofMii"
+1679277476192	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679277476197	Marionette	INFO	Listening on port 61041
+Read port: 61041
+WebDriver BiDi listening on ws://127.0.0.1:61034
+1679277476286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilehofMii\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61034/devtools/browser/c70ee3f1-4c4f-409b-81d1-87fca81cb3e7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679277486224	Marionette	INFO	Stopped listening on port 61041
+Dynamically enable window occlusion 1
+1679277491243	geckodriver	INFO	Listening on 127.0.0.1:61083
+1679277494298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61084" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilefY6B28"
+1679277494681	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679277494686	Marionette	INFO	Listening on port 61091
+Read port: 61091
+WebDriver BiDi listening on ws://127.0.0.1:61084
+1679277494805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilefY6B28\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61084/devtools/browser/bd77da5e-b26b-467c-a4db-e6f27624c20f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679277627008	Marionette	INFO	Stopped listening on port 61091
+Dynamically enable window occlusion 1
+Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679277606044	Marionette	INFO	Listening on port 61198
+Read port: 61198
+WebDriver BiDi listening on ws://127.0.0.1:61191
+1679277606179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileNYlcUP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61191/devtools/browser/80ced337-bcbb-4102-976b-8bae19213cf0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679277629451	Marionette	INFO	Stopped listening on port 61198
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "61243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile3pOqwF"
+1679277628013	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679277628018	Marionette	INFO	Listening on port 61250
+Read port: 61250
+WebDriver BiDi listening on ws://127.0.0.1:61243
+1679277628132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile3pOqwF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61243/devtools/browser/44f9475d-17d1-4941-80c0-5a9ee2323887
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679277675853	Marionette	INFO	Stopped listening on port 61250
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile5iqqkp"
+1679277670482	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679277670486	Marionette	INFO	Listening on port 61302
+WebDriver BiDi listening on ws://127.0.0.1:61295
+Read port: 61302
+1679277670661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile5iqqkp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61295/devtools/browser/7395aa69-eba9-4ae1-b384-a11909467eba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679278070900	Marionette	INFO	Stopped listening on port 61302
+Dynamically enable window occlusion 1
+le window occlusion 0
+1679278053108	Marionette	INFO	Listening on port 61387
+Read port: 61387
+WebDriver BiDi listening on ws://127.0.0.1:61380
+1679278053270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileYPGJIB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61380/devtools/browser/1fef0de3-983e-4fdd-9ab2-dfbf78fb1674
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+1679278064052	geckodriver	INFO	Listening on 127.0.0.1:61437
+1679278067128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofiledxrN4j"
+1679278067525	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679278067533	Marionette	INFO	Listening on port 61445
+Read port: 61445
+WebDriver BiDi listening on ws://127.0.0.1:61438
+1679278067647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofiledxrN4j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61438/devtools/browser/cb91a25e-6202-45d7-849c-6464cd23db74
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679278302649	Marionette	INFO	Stopped listening on port 61445
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileZR4thH"
+1679278298718	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679278298724	Marionette	INFO	Listening on port 61521
+Read port: 61521
+WebDriver BiDi listening on ws://127.0.0.1:61514
+1679278298925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileZR4thH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61514/devtools/browser/abf44113-97c8-4a0b-b8b7-a7e4ba2f8e6a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679278334762	Marionette	INFO	Stopped listening on port 61521
+Dynamically enable window occlusion 1
+1679278460277	geckodriver	INFO	Listening on 127.0.0.1:61577
+1679278463323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileNbcCDJ"
+1679278463743	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679278463748	Marionette	INFO	Listening on port 61585
+Read port: 61585
+WebDriver BiDi listening on ws://127.0.0.1:61578
+1679278463974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileNbcCDJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61578/devtools/browser/61c8a59e-23d3-4dd5-8160-2974f4d213a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679278820667	Marionette	INFO	Stopped listening on port 61585
+Dynamically enable window occlusion 1
+Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679278818540	Marionette	INFO	Listening on port 61686
+Read port: 61686
+WebDriver BiDi listening on ws://127.0.0.1:61679
+1679278818633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileciVhYQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61679/devtools/browser/eb86bc7f-027a-4d8c-a674-7ffc207560db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679278882593	Marionette	INFO	Stopped listening on port 61686
+Dynamically enable window occlusion 1
+[Parent 25972, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+\\AppData\\Local\\Temp\\rust_mozprofilexsdfeU"
+1679278862014	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679278862019	Marionette	INFO	Listening on port 61740
+Read port: 61740
+WebDriver BiDi listening on ws://127.0.0.1:61733
+1679278862115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilexsdfeU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61733/devtools/browser/3885df11-1eca-4e59-a7e6-ae03824cc360
+1679278863727	Marionette	INFO	Stopped listening on port 61740
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1679278870832	geckodriver	INFO	Listening on 127.0.0.1:61780
+1679278873897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileZyv55h"
+1679278874261	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679278874266	Marionette	INFO	Listening on port 61788
+Read port: 61788
+WebDriver BiDi listening on ws://127.0.0.1:61781
+1679278874432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileZyv55h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61781/devtools/browser/f62ef879-879c-49f7-8af0-92435a4270c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679278922482	Marionette	INFO	Stopped listening on port 61788
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilenJePY2"
+1679278917202	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679278917206	Marionette	INFO	Listening on port 61845
+Read port: 61845
+WebDriver BiDi listening on ws://127.0.0.1:61838
+1679278917334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilenJePY2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61838/devtools/browser/8ac5db96-7a26-4410-8d0b-31069e682ebf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679279047295	Marionette	INFO	Stopped listening on port 61845
+Dynamically enable window occlusion 1
+1679279132100	geckodriver	INFO	Listening on 127.0.0.1:61927
+1679279135166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileAlWMg0"
+1679279135564	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679279135570	Marionette	INFO	Listening on port 61936
+Read port: 61936
+WebDriver BiDi listening on ws://127.0.0.1:61928
+1679279135775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileAlWMg0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61928/devtools/browser/c3ac5e22-04f8-4378-a411-0625aa784763
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679279465037	Marionette	INFO	Stopped listening on port 61936
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilevJ65fw"
+1679279265967	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679279265972	Marionette	INFO	Listening on port 62002
+Read port: 62002
+WebDriver BiDi listening on ws://127.0.0.1:61995
+1679279266075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilevJ65fw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61995/devtools/browser/f8386775-b447-4b9e-a838-e22831c7510c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1679280101344	Marionette	INFO	Stopped listening on port 62002
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "62100" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilenq3gZc"
+1679279457893	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679279457898	Marionette	INFO	Listening on port 62107
+Read port: 62107
+WebDriver BiDi listening on ws://127.0.0.1:62100
+1679279458001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilenq3gZc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62100/devtools/browser/bcfa49c6-65d5-459c-98ec-f22cfa5f0708
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679279572957	Marionette	INFO	Stopped listening on port 62107
+Dynamically enable window occlusion 1
+1679280029345	geckodriver	INFO	Listening on 127.0.0.1:62247
+1679280032385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileRSV27Y"
+1679280032750	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679280032754	Marionette	INFO	Listening on port 62255
+WebDriver BiDi listening on ws://127.0.0.1:62248
+Read port: 62255
+1679280032871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileRSV27Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62248/devtools/browser/81372717-afa6-4c59-a504-163726730a57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679280102188	Marionette	INFO	Stopped listening on port 62255
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileL12gD6"
+1679280081195	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679280081199	Marionette	INFO	Listening on port 62318
+Read port: 62318
+WebDriver BiDi listening on ws://127.0.0.1:62308
+1679280081293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileL12gD6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62308/devtools/browser/2d9a7808-dd2e-4ac9-96c3-d29b82022246
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679280100149	Marionette	INFO	Stopped listening on port 62318
+Dynamically enable window occlusion 1
+1679281253524	geckodriver	INFO	Listening on 127.0.0.1:62733
+1679281256588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileu9jga3"
+1679281257003	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679281257007	Marionette	INFO	Listening on port 62741
+Read port: 62741
+WebDriver BiDi listening on ws://127.0.0.1:62734
+1679281257100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileu9jga3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62734/devtools/browser/25e22321-3e81-4e26-a020-745963d9a746
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679281328425	Marionette	INFO	Stopped listening on port 62741
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilemtM8N4"
+1679281318754	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679281318759	Marionette	INFO	Listening on port 62798
+WebDriver BiDi listening on ws://127.0.0.1:62788
+Read port: 62798
+1679281318938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilemtM8N4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62788/devtools/browser/f6649ac4-585f-45cf-99c2-69563f07746e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679281418196	Marionette	INFO	Stopped listening on port 62798
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile08Dy7a"
+1679281413250	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679281413255	Marionette	INFO	Listening on port 63045
+Read port: 63045
+WebDriver BiDi listening on ws://127.0.0.1:63038
+1679281413362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile08Dy7a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63038/devtools/browser/738982a3-b69c-4965-ab67-242bc343c750
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679281461737	Marionette	INFO	Stopped listening on port 63045
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63098" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilek1shFh"
+1679281452014	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679281452019	Marionette	INFO	Listening on port 63105
+Read port: 63105
+WebDriver BiDi listening on ws://127.0.0.1:63098
+1679281452112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilek1shFh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63098/devtools/browser/df4a1e0f-0d77-4020-8fde-1bca86b9ceae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679281486661	Marionette	INFO	Stopped listening on port 63105
+Dynamically enable window occlusion 1
+1679281516217	geckodriver	INFO	Listening on 127.0.0.1:63267
+1679281519270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileLJgQQ0"
+1679281519654	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679281519659	Marionette	INFO	Listening on port 63275
+Read port: 63275
+WebDriver BiDi listening on ws://127.0.0.1:63268
+1679281519771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileLJgQQ0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63268/devtools/browser/ed842c21-086d-467f-bbf9-4d615c9d30c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679281624921	Marionette	INFO	Stopped listening on port 63275
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileaiyZUt"
+1679281609960	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679281609964	Marionette	INFO	Listening on port 63335
+Read port: 63335
+WebDriver BiDi listening on ws://127.0.0.1:63328
+1679281610085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileaiyZUt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63328/devtools/browser/8a0de56e-bac0-45c7-b255-9a638fd61975
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679281682285	Marionette	INFO	Stopped listening on port 63335
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileLDRWKu"
+1679281678020	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679281678025	Marionette	INFO	Listening on port 63392
+Read port: 63392
+WebDriver BiDi listening on ws://127.0.0.1:63385
+1679281678149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileLDRWKu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63385/devtools/browser/09c02f1b-7fe7-4a70-990a-1120807017d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679281730598	Marionette	INFO	Stopped listening on port 63392
+Dynamically enable window occlusion 1
+[Parent 28260, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+\\AppData\\Local\\Temp\\rust_mozprofileEJrsFe"
+1679281727799	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679281727804	Marionette	INFO	Listening on port 63453
+Read port: 63453
+WebDriver BiDi listening on ws://127.0.0.1:63446
+1679281727915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileEJrsFe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63446/devtools/browser/c1005f3d-5cf1-4a08-bb8a-f4266ddd7770
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679281786019	Marionette	INFO	Stopped listening on port 63453
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63506" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileEtJny5"
+1679281782615	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679281782620	Marionette	INFO	Listening on port 63513
+WebDriver BiDi listening on ws://127.0.0.1:63506
+Read port: 63513
+1679281782796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileEtJny5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63506/devtools/browser/65628b68-6834-4f97-855a-a96e269c81d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679281925233	Marionette	INFO	Stopped listening on port 63513
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63566" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileDelsXA"
+1679281923914	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679281923920	Marionette	INFO	Listening on port 63573
+WebDriver BiDi listening on ws://127.0.0.1:63566
+Read port: 63573
+1679281924068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileDelsXA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63566/devtools/browser/d57c9d2c-0bc5-4817-81fa-5d4522391334
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679281987263	Marionette	INFO	Stopped listening on port 63573
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile4NEbZs"
+1679281968329	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679281968334	Marionette	INFO	Listening on port 63626
+Read port: 63626
+WebDriver BiDi listening on ws://127.0.0.1:63619
+1679281968435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile4NEbZs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63619/devtools/browser/7c523549-50fa-4b62-b102-14258c61ff5b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679281995718	Marionette	INFO	Stopped listening on port 63626
+Dynamically enable window occlusion 1
+1679282010590	geckodriver	INFO	Listening on 127.0.0.1:63677
+1679282013658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63678" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileGZfW6o"
+1679282014089	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679282014096	Marionette	INFO	Listening on port 63685
+WebDriver BiDi listening on ws://127.0.0.1:63678
+Read port: 63685
+1679282014338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileGZfW6o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63678/devtools/browser/60eef984-c587-4825-b41f-f2d5513ac30c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679282104838	Marionette	INFO	Stopped listening on port 63685
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileZ8Zx7l"
+1679282068597	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679282068602	Marionette	INFO	Listening on port 63759
+Read port: 63759
+WebDriver BiDi listening on ws://127.0.0.1:63751
+1679282068709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileZ8Zx7l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63751/devtools/browser/5f1378b2-9f05-4ace-9de0-b9c1dc76c1ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679282288530	Marionette	INFO	Stopped listening on port 63759
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile8ryUiX"
+1679282099501	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679282099505	Marionette	INFO	Listening on port 63822
+Read port: 63822
+WebDriver BiDi listening on ws://127.0.0.1:63815
+1679282099606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile8ryUiX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63815/devtools/browser/89566285-d2bf-4458-a796-fdd5d76ea8d9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679282132156	Marionette	INFO	Stopped listening on port 63822
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilejz501i"
+1679282130435	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679282130440	Marionette	INFO	Listening on port 63881
+Read port: 63881
+WebDriver BiDi listening on ws://127.0.0.1:63871
+1679282130552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilejz501i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63871/devtools/browser/098d2d42-26cb-4d5a-b161-1463bcf945e3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679282211268	Marionette	INFO	Stopped listening on port 63881
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilewKFQOW"
+1679282207125	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679282207131	Marionette	INFO	Listening on port 63942
+Read port: 63942
+WebDriver BiDi listening on ws://127.0.0.1:63934
+1679282207223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofilewKFQOW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63934/devtools/browser/632421e1-7e3f-45a4-9010-40530debdcbb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679282296618	Marionette	INFO	Stopped listening on port 63942
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileiKwila"
+1679282238941	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679282238946	Marionette	INFO	Listening on port 63997
+WebDriver BiDi listening on ws://127.0.0.1:63989
+Read port: 63997
+1679282239129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileiKwila\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63989/devtools/browser/606c134b-a53e-4d7c-a7b2-65723051719d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+1679282241742	Marionette	INFO	Stopped listening on port 63997
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1679282245755	geckodriver	INFO	Listening on 127.0.0.1:64041
+1679282248816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile6qe69l"
+1679282249184	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679282249188	Marionette	INFO	Listening on port 64049
+Read port: 64049
+WebDriver BiDi listening on ws://127.0.0.1:64042
+1679282249295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile6qe69l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64042/devtools/browser/629bf77f-a275-4ba7-b2e2-763e626c7f9a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679282290801	Marionette	INFO	Stopped listening on port 64049
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileNSqzA0"
+1679282288876	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679282288880	Marionette	INFO	Listening on port 64110
+WebDriver BiDi listening on ws://127.0.0.1:64102
+Read port: 64110
+1679282289121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileNSqzA0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64102/devtools/browser/506305d9-0143-4b89-be98-b8323da24ff4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679282420292	Marionette	INFO	Stopped listening on port 64110
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileJCGoPX"
+1679282352836	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679282352840	Marionette	INFO	Listening on port 64182
+WebDriver BiDi listening on ws://127.0.0.1:64172
+Read port: 64182
+1679282353016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileJCGoPX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64172/devtools/browser/51831745-0ca9-4740-95d1-3e4c1425fdfc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679282415877	Marionette	INFO	Stopped listening on port 64181679282417724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileSYIKWR"
+1679282418133	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679282418138	Marionette	INFO	Listening on port 64240
+Read port: 64240
+WebDriver BiDi listening on ws://127.0.0.1:64233
+1679282418302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileSYIKWR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64233/devtools/browser/6cc5a0b7-6285-49b7-ba08-275ee21b18d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679282496280	Marionette	INFO	Stopped listening on port 64240
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile5fNDy1"
+1679282492952	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679282492957	Marionette	INFO	Listening on port 64298
+WebDriver BiDi listening on ws://127.0.0.1:64289
+Read port: 64298
+1679282493133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofile5fNDy1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64289/devtools/browser/ee122049-20db-46d1-bf73-676fb385a956
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679282529349	Marionette	INFO	Stopped listening on port 64298
+Dynamically enable window occlusion 1
+1679283227510	geckodriver	INFO	Listening on 127.0.0.1:64547
+1679283230590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileLHdNlp"
+1679283230977	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679283230981	Marionette	INFO	Listening on port 64555
+Read port: 64555
+WebDriver BiDi listening on ws://127.0.0.1:64548
+1679283231074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileLHdNlp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64548/devtools/browser/984edcf4-d8e7-48a5-bdbe-4e49b91bd0ca
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679283246680	Marionette	INFO	Stopped listening on port 64555
+Dynamically enable window occlusion 1
+1679283280592	geckodriver	INFO	Listening on 127.0.0.1:64609
+1679283283657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64610" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileSap2xn"
+1679283284033	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679283284038	Marionette	INFO	Listening on port 64617
+Read port: 64617
+WebDriver BiDi listening on ws://127.0.0.1:64610
+1679283284133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mimja\\AppData\\Local\\Temp\\rust_mozprofileSap2xn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64610/devtools/browser/57807ab3-7558-4797-8c42-658fee28c396
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pvue.psdschools.org."
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+JavaScript warning: https://pvue.psdschools.org/js/ST/moment.min.js?2023-02-17T19%3a07%3a30.0000000, line 6: unreachable code after return statement
+1679283297474	Marionette	INFO	Stopped listening on port 64617
+Dynamically enable window occlusion 1
