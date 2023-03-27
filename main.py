@@ -21,6 +21,7 @@ def get_details(soup):
     for row in assignment_table.findAll('tr')[:-1]:
         cols = row.findAll('td')
         assignments.append(cols)
+
     return assignments
 
 
@@ -41,7 +42,7 @@ def begin(username, password):
     password_text_field.send_keys(password)
     password_text_field.send_keys(Keys.RETURN)
 
-    WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="mainnav"]/div/a[9]')))
+    WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, '//*[@id="mainnav"]/div/a[9]')))
     grade_book_tab = driver.find_element(By.XPATH, '//*[@id="mainnav"]/div/a[9]')
     grade_book_tab.click()
 
@@ -71,14 +72,26 @@ def begin(username, password):
     for i in range(enrolled_classes_header):
         header = driver.find_elements(By.CLASS_NAME, "gb-class-header")
         header[i].find_element(By.TAG_NAME, "button").click()
-        time.sleep(1)
+
+        WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.ID, "ctl00_CategoryWeights")))
+        print(EC.element_attribute_to_include((By.ID, "ctl00_CategoryWeights"), "data-data-source"))
+        time.sleep(5)
+        print(EC.element_attribute_to_include((By.ID, "ctl00_CategoryWeights"), "data-data-source"))
+        print("-"*50)
+        # print(EC.presence_of_element_located((By.ID, 'ctl00_CategoryWeights')))
+        # time.sleep(5)
+        # print(EC.presence_of_element_located((By.ID, 'ctl00_CategoryWeights')))
 
         raw_grade_weight = driver.find_element(By.ID, "ctl00_CategoryWeights").get_attribute("data-data-source")
         if raw_grade_weight:
             formatted_info = json.loads(str(driver.find_element(By.ID, "ctl00_CategoryWeights").get_attribute("data-data-source")))
-            data[i].append([])
+            gathered_info = {}
             for i_2 in range(len(formatted_info)):
-                data[i][-1].append({formatted_info[i_2]["Category"], formatted_info[i_2]["PctOfGrade"]})
+                assignment_category = formatted_info[i_2]["Category"]
+                assignment_pct_of_grade = formatted_info[i_2]["PctOfGrade"]
+                gathered_info[assignment_category] = assignment_pct_of_grade
+
+            data[i].append(gathered_info)
         else:
             data[i].append(None)
 
@@ -94,15 +107,48 @@ def begin(username, password):
         except selenium.common.exceptions.NoSuchElementException:
             data[i].append(None)
 
+        WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.ID, "GradebookHeader")))
         driver.find_element(By.ID, "GradebookHeader").find_element(By.TAG_NAME, "a").click()
-        time.sleep(1)
+        time.sleep(2)
 
     driver.quit()
 
-    pprint.pprint(data)
+    return data
+
+
+def format_data(grade_object):
+    formatted_grade_data = []
+
+    for i in grade_object:
+        empty = {"name": i[0], "grade": i[3], "weighting": i[4]}
+
+        if isinstance(i[5], list):
+            empty["assignments"] = []
+
+            for i_2 in i[5]:
+                assignment = {"name": i_2[1], "type": i_2[2].replace("0", "").replace(" ", "")}
+                score_total = i_2[3].split(" out of ")
+
+                if score_total[0] != "Not Due" and score_total[0] != "Not Graded":
+                    assignment["score"] = score_total[0]
+                    assignment["total"] = score_total[1]
+                else:
+                    assignment["assignments"] = score_total[0]
+
+                empty["assignments"].append(assignment)
+
+        formatted_grade_data.append(empty)
+
+    return formatted_grade_data
 
 
 given_username = input("Username: ")
 given_password = getpass.getpass("Password: ")
 print("-" * 50)
-begin(given_username, given_password)
+
+grade_data = begin(given_username, given_password)
+formatted_data = format_data(grade_data)
+
+file1 = open("./data.json", "w")
+file1.write(json.dumps(formatted_data))
+file1.close()
