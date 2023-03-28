@@ -1,7 +1,6 @@
 import getpass
 import time
 import json
-import pprint
 
 import selenium.common.exceptions
 from selenium import webdriver
@@ -73,14 +72,8 @@ def begin(username, password):
         header = driver.find_elements(By.CLASS_NAME, "gb-class-header")
         header[i].find_element(By.TAG_NAME, "button").click()
 
+        time.sleep(.5)
         WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.ID, "ctl00_CategoryWeights")))
-        print(EC.element_attribute_to_include((By.ID, "ctl00_CategoryWeights"), "data-data-source"))
-        time.sleep(5)
-        print(EC.element_attribute_to_include((By.ID, "ctl00_CategoryWeights"), "data-data-source"))
-        print("-"*50)
-        # print(EC.presence_of_element_located((By.ID, 'ctl00_CategoryWeights')))
-        # time.sleep(5)
-        # print(EC.presence_of_element_located((By.ID, 'ctl00_CategoryWeights')))
 
         raw_grade_weight = driver.find_element(By.ID, "ctl00_CategoryWeights").get_attribute("data-data-source")
         if raw_grade_weight:
@@ -109,7 +102,6 @@ def begin(username, password):
 
         WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.ID, "GradebookHeader")))
         driver.find_element(By.ID, "GradebookHeader").find_element(By.TAG_NAME, "a").click()
-        time.sleep(2)
 
     driver.quit()
 
@@ -144,7 +136,6 @@ def format_data(grade_object):
 
 given_username = input("Username: ")
 given_password = getpass.getpass("Password: ")
-print("-" * 50)
 
 grade_data = begin(given_username, given_password)
 formatted_data = format_data(grade_data)
@@ -152,3 +143,5 @@ formatted_data = format_data(grade_data)
 file1 = open("./data.json", "w")
 file1.write(json.dumps(formatted_data))
 file1.close()
+
+print("saved to data.json")
